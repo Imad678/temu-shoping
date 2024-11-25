@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="ar">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>برنامج TEMU التابع والمؤثرين</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+      body {
+        font-family: 'Roboto', sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #ffffff;
+        color: #333333;
+      }
+
+      h1,
+      h2 {
+        font-family: 'Lora', serif;
+        text-align: center;
+        margin-bottom: 10px;
+      }
+
+      p,
+      a {
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        line-height: 1.6;
+        text-align: center;
+        margin-bottom: 20px;
+      }
+
+      .container {
+        width: 100%;
+        max-width: 600px;
+        margin: 0 auto;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        overflow: hidden;
+      }
+
+      .header {
+        background-color: #ff6a00;
+        padding: 25px 15px;
+        text-align: center;
+        color: #ffffff;
+      }
+
+      .header h1 {
+        margin: 0;
+        font-size: 40px;
+        font-weight: bold;
+        color: #ffffff;
+        text-transform: uppercase;
+      }
+
+      .content {
+        padding: 20px;
+      }
+
+      .content h2 {
+        font-size: 24px;
+        color: #ff6a00;
+        margin-bottom: 15px;
+      }
+
+      .button-container {
+        text-align: center;
+        margin-bottom: 20px;
+      }
+
+      .button {
+        display: inline-block;
+        width: 220px;
+        margin: 10px auto;
+        padding: 15px;
+        background-color: #ff6a00;
+        color: #ffffff;
+        text-align: center;
+        text-decoration: none;
+        font-size: 16px;
+        border-radius: 5px;
+        box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
+        transition: background-color 0.3s ease, transform 0.3s ease;
+      }
+
+      .button:hover {
+        background-color: #e55d00;
+        transform: scale(1.05);
+        /* Slight enlargement on hover */
+      }
+
+      .footer {
+        background-color: #f8f8f8;
+        text-align: center;
+        padding: 15px;
+        font-size: 12px;
+        color: #666666;
+      }
+
+      .highlights {
+        background-color: #fafafa;
+        padding: 20px;
+        text-align: center;
+        border-top: 1px solid #ddd;
+        border-bottom: 1px solid #ddd;
+      }
+
+      .highlights p {
+        margin: 10px 0;
+        font-size: 16px;
+      }
+
+      .faq {
+        margin-top: 30px;
+      }
+
+      .faq h3 {
+        font-family: 'Lora', serif;
+        font-size: 22px;
+        color: #ff6a00;
+        text-align: center;
+      }
+
+      .faq p {
+        font-size: 16px;
+        margin-bottom: 15px;
+      }
+
+      /* Social Icons Styling */
+      .social-icons {
+        display: flex;
+        justify-content: center;
+        margin: 20px 0;
+      }
+
+      .social-icons a {
+        margin: 0 12px;
+        text-decoration: none;
+      }
+
+      .social-icons img {
+        width: 40px;
+        height: 40px;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        border-radius: 50%;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      }
+
+      .social-icons img:hover {
+        transform: scale(1.15);
+        box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+      }
+
+      .countdown {
+        text-align: center;
+        margin-top: 20px;
+        font-size: 18px;
+        font-weight: bold;
+        color: #ff6a00;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <!-- Header -->
+      <div class="header">
+        <h1>TEMU</h1>
+      </div>
+      <!-- Main Promotion -->
+      <div class="content">
+        <h2>🔥 تم دفع ملايين العمولات والمكافآت بالفعل!</h2>
+        <p>انضم إلى برنامج التابعين والمؤثرين لكسب المال الآن!</p>
+        <!-- First Button in Center -->
+        <div class="button-container">
+          <a href="https://temu.to/k/emammwx74oq" class="button">انقر هنا للانضمام الآن</a>
+        </div>
+        <p>🤝 لا يوجد حد أدنى لأي شخص ولا يوجد حد للأرباح</p>
+        <p>🏦 برنامج موثوق وآمن مع Temu وPaypal</p>
+        <p>👪 انضم إلينا أكثر من 300,000 من الشركاء التابعين</p>
+      </div>
+      <!-- Product Highlights -->
+      <div class="highlights">
+        <h2>🌟 أبرز المزايا 🌟</h2>
+        <p>🎁 مستخدمو التطبيق الجدد يحصلون على باقة قسائم تصل إلى ‎1,000 درهم عند التنزيل لأول مرة!</p>
+        <p>🔥 استفد من خصومات مذهلة تصل إلى 50% على منتجات الصفقة الحصرية.</p>
+        <p>💸 لا تفوّت فرصة الحصول على خصومات كبيرة في جميع أنحاء الموقع لجميع المستخدمين.</p>
+      </div>
+      <!-- Countdown Timer -->
+      <div class="countdown"> ⏳ العرض ينتهي في: 3 أيام و 2 ساعات و 15 دقيقة </div>
+      <!-- New Section with Centered Links -->
+      <div class="content">
+        <h2>⭐️ عروض إضافية ⭐️</h2>
+        <!-- Second Button in Center -->
+        <div class="button-container">
+          <a href="https://temu.to/k/ut4s1bl93w0" class="button">احصل على ‎1,000 درهم حزمة القسائم! 💰</a>
+        </div>
+        <!-- Third Button in Center -->
+        <div class="button-container">
+          <a href="https://temu.to/k/emammwx74oq" class="button">اربح معي الآن 🤝</a>
+        </div>
+      </div>
+      <!-- FAQ Section -->
+      <div class="faq">
+        <h3>الأسئلة المتكررة</h3>
+        <p>
+          <strong>كيف أشارك في البرنامج؟</strong>
+          <br> ببساطة، انقر على الرابط أعلاه وسجل للحصول على روابط ترويجية.
+        </p>
+        <p>
+          <strong>هل يمكنني دمج العروض المختلفة؟</strong>
+          <br> لا، لا يمكن دمج هذه المزايا في نفس الطلب.
+        </p>
+      </div>
+      <!-- Social Media Links -->
+      <div class="content">
+        <p>تابعنا على وسائل التواصل الاجتماعي:</p>
+        <div class="social-icons">
+          <a href="#">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Facebook_Logo_%282019%29.png" alt="Facebook">
+          </a>
+          <a href="#">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram">
+          </a>
+          <a href="#">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Linkedin_icon.svg" alt="LinkedIn">
+          </a>
+          <a href="#">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Twitter_logo.svg" alt="Twitter">
+          </a>
+        </div>
+      </div>
+      <!-- Footer -->
+      <div class="footer">
+        <p>&copy; 2024 TEMU. جميع الحقوق محفوظة.</p>
+        <p>إذا كانت لديك أي أسئلة، لا تتردد في التواصل معنا عبر البريد الإلكتروني: <a href="mailto:support@temu.com">support@temu.com</a>. </p>
+      </div>
+    </div>
+  </body>
+</html>
